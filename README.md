@@ -6,22 +6,19 @@
 </p>
 
 <p align="center">
-  <video width="75%" controls>
-    <source src="https://github.com/user-attachments/assets/064dc76f-758d-4ff5-9feb-d6feb9b98cac" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/user-attachments/assets/4921c5e8-98ed-43c1-84d0-eabd445ffd22" width="75%">
 </p>
 
 <details><summary>Еще изображения:</summary>
 
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/fd639a62-36fd-4815-9d10-313a6c80b07a" width="75%">
-  </p>
-
-  <p align="center">
     <img src="https://github.com/user-attachments/assets/001e9829-69f7-4732-8a1b-c7393bf93173" width="75%">
   </p>
-
+  
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/fd639a62-36fd-4815-9d10-313a6c80b07a" width="75%">
+  </p>
+  
   <p align="center">
     <img src="https://github.com/user-attachments/assets/04e700b3-0db0-4c5d-be93-5369e660deca" width="75%">
   </p>
