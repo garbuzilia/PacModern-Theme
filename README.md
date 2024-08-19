@@ -5,10 +5,6 @@
   <img src="https://github.com/user-attachments/assets/4d6edaff-9757-4fb8-b0c5-ab093591dbcd" width="75%">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4921c5e8-98ed-43c1-84d0-eabd445ffd22" width="75%">
-</p>
-
 <details><summary>Еще изображения:</summary>
 
   <p align="center">
@@ -16,11 +12,11 @@
   </p>
   
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/fd639a62-36fd-4815-9d10-313a6c80b07a" width="75%">
-  </p>
-  
-  <p align="center">
     <img src="https://github.com/user-attachments/assets/04e700b3-0db0-4c5d-be93-5369e660deca" width="75%">
+  </p>
+
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/fd639a62-36fd-4815-9d10-313a6c80b07a" width="75%">
   </p>
 
   <p align="center">
@@ -39,6 +35,6 @@
 *Скинуть в том, с которого загружается консоль.*
 2. Папка `CFW` > Основные файлы темы.<br> *Скинуть в том, где лежат ромы игр.*
 
-Тема создана с нуля на основе [`Claro Theme`]([https://](https://www.patreon.com/posts/claro-theme-only-93195786)) от LMarcoMiranda: 
+Тема создана с нуля на основе `Claro Theme` от LMarcoMiranda: https://www.patreon.com/posts/claro-theme-only-93195786
 <br> 
-Иконки модифицированы от Vidnez: [`retro-systems-icons-for-GarlicOS`]([https://](https://github.com/Vidnez/retro-systems-icons-for-GarlicOS)) 
+Иконки модифицированные `retro-systems-icons-for-GarlicOS` от Vidnez: https://github.com/Vidnez/retro-systems-icons-for-GarlicOS
