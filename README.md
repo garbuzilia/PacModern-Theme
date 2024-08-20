@@ -5,6 +5,10 @@
   <img src="https://github.com/user-attachments/assets/4d6edaff-9757-4fb8-b0c5-ab093591dbcd" width="75%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/22054692-737a-477f-bb12-fb81ce71467f" width="75%">
+</p>
+
 <details><summary>Еще изображения:</summary>
 
   <p align="center">
